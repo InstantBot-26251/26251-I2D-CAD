@@ -1,8 +1,25 @@
-Hello all Instant-Botterizers!!!
+Hello Instant BOT CAD team,
 
-This is the Cad repo for IB, for the design team
-Whenever you are making a change, make sure to push it to ur branch it occasionally, with my permission
-After all commits are up to date, (call each other), you download the RAW file as you are viewing the file (from your branch). (MAKE A NEW BRANCH SHOWING YOUR FIX OR ADD)
-**Delete all other instances of this file from your computer** and open the just-downloaded file. Edit and then commit to your branch occasionally.
+this is your friendly overlord, Ishaan.
+This is our repository for our CAD files in our first season as part of FTC, Into the Deep.
 
-Finally, with my permission, push to main. (You will need my approval (Ishaan))!!!
+This is a protected repo, which means that any pushes have to be approved by me.
+
+Steps for use:
+First, download a file from the repo onto your computer, call everyone else to make sure it is the latest.
+Then open it in INVENTOR.
+Make edits, hotfixes, or whatever. ;)
+Then when you are ready for it to be updated, UPLOAD A FILE in the repo.
+You can write ur summary.
+Then call me and ask for it to be approved.
+When it is, then its pushed to MAIN
+Then **DELETE THE FILE ON YOUR COMPUTER**
+Always make sure you are editing the latest version of the file.
+
+For them worriers out there:
+Don't worry when you click upload a file, it will auto-replace the existing file and not do
+hihi.iam
+hihi.iam
+hihi.iam
+
+XD
