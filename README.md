@@ -1,6 +1,6 @@
 Hello Instant BOT CAD team,
 
-this is your friendly overlord, Ishaan.
+this is your friendly neighborhood overlord, Ishaan.
 This is our repository for our CAD files in our first season as part of FTC, Into the Deep.
 
 This is a protected repo, which means that any pushes have to be approved by me.
